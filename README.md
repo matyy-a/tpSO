@@ -1,2 +1,1 @@
-# tpSO
-TP Cuatrimestral de SO - C2 - 2022
+# tp-2022-1c-Los-Domadores-de-SO
